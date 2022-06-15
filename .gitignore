@@ -1,0 +1,7 @@
+*.hprof
+*.iml
+*.xccheckout
+*.xcscmblueprint
+.DS_Store
+.build/
+.swiftpm/
